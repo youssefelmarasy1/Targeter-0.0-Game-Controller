@@ -32,4 +32,4 @@ The Targeter Game Controller is a project implemented on the ATMega328P microcon
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
